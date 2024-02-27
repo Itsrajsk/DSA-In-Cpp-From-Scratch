@@ -1,7 +1,5 @@
 // Approach 2 (Rotate one by one)
 
-// Approach 1 (Using temp array)
-
 #include <iostream>
 
 using namespace std;
