@@ -75,3 +75,26 @@ This README documents a log of daily Data Structures and Algorithms (DSA) proble
   - **Problem 18:** 
     - **Title:** Search In Unsorted Array
       - **Details:** Explore methods for searching elements in an unsorted array efficiently. This operation typically involves traversing the array sequentially until the desired element is found.
+
+**Date:** [28-02-2024]
+
+  - **Problem 1:** 
+    - **Title:** Anagram Check
+      - **Details:** Determine whether two strings are anagrams of each other.
+      
+  - **Problem 2:** 
+    - **Title:** First Non-Repeating Character
+      - **Details:** Find the first non-repeating character in a given string.
+      
+  - **Problem 3:** 
+    - **Title:** First Repeated Character
+      - **Details:** Identify the first repeated character in a string.
+      
+  - **Problem 4:** 
+    - **Title:** Lexicographic Rank
+      - **Details:** Calculate the lexicographic rank of a string.
+      
+  - **Problem 5:** 
+    - **Title:** Palindrome Check
+      - **Details:** Determine if a given string is a palindrome.
+      
