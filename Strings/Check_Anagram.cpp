@@ -2,6 +2,7 @@
 
 #include <bits/stdc++.h>
 using namespace std;
+
 bool isAnagram(string str1, string str2)
 {
     unordered_map<char, int> Map;
@@ -29,6 +30,7 @@ bool isAnagram(string str1, string str2)
     }
     return true;
 }
+
 int main()
 {
     string str1 = "anagram";
