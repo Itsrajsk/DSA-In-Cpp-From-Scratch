@@ -98,3 +98,25 @@ This README documents a log of daily Data Structures and Algorithms (DSA) proble
     - **Title:** Palindrome Check
       - **Details:** Determine if a given string is a palindrome.
       
+**Date:** [29-02-2024]
+
+  - **Problem 1:** 
+    - **Title:** Check if pair with given Sum exists in Array (Two Sum)
+      - **Details:** Determine if there exists a pair of elements in the array whose sum equals a given target sum.
+      
+  - **Problem 2:** 
+    - **Title:** Intersection of two unsorted arrays
+      - **Details:** Find the intersection of two unsorted arrays, i.e., the common elements present in both arrays.
+      
+  - **Problem 3:** 
+    - **Title:** Union of two unsorted arrays
+      - **Details:** Compute the union of two unsorted arrays, i.e., the set of all distinct elements present in either array.
+      
+  - **Problem 4:** 
+    - **Title:** Counting frequencies of array elements
+      - **Details:** Calculate the frequency of each element in the array, i.e., how many times each element appears.
+      
+  - **Problem 5:** 
+    - **Title:** Count Distinct ( Unique ) elements in an array
+      - **Details:** Count the number of distinct (unique) elements present in the array.
+      
