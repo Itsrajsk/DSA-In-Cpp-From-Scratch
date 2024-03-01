@@ -120,3 +120,41 @@ This README documents a log of daily Data Structures and Algorithms (DSA) proble
     - **Title:** Count Distinct ( Unique ) elements in an array
       - **Details:** Count the number of distinct (unique) elements present in the array.
       
+**Date:** [01-03-2024]
+
+  - **Problem 1:** 
+    - **Title:** Factorial
+      - **Details:** Calculate the factorial of a given number.
+      
+  - **Problem 2:** 
+    - **Title:** Josephus Problem
+      - **Details:** Solve the Josephus problem, where a group of people stand in a circle and every k-th person is eliminated until only one remains.
+      
+  - **Problem 3:** 
+    - **Title:** Palindrome
+      - **Details:** Check if a given string or number is a palindrome.
+      
+  - **Problem 4:** 
+    - **Title:** Print 1 to n
+      - **Details:** Print numbers from 1 to n.
+      
+  - **Problem 5:** 
+    - **Title:** Print n to 1
+      - **Details:** Print numbers from n to 1.
+      
+  - **Problem 6:** 
+    - **Title:** Rod Cutting
+      - **Details:** Solve the rod cutting problem to maximize profit by cutting a rod of length n.
+      
+  - **Problem 7:** 
+    - **Title:** Subsets of Set
+      - **Details:** Generate all possible subsets of a set.
+      
+  - **Problem 8:** 
+    - **Title:** Sum of Digits
+      - **Details:** Calculate the sum of digits of a given number.
+      
+  - **Problem 9:** 
+    - **Title:** Tower of Hanoi
+      - **Details:** Solve the Tower of Hanoi problem, where disks of different sizes are moved between pegs following specific rules.
+      
