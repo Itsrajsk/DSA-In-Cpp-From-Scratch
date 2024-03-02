@@ -158,3 +158,43 @@ This README documents a log of daily Data Structures and Algorithms (DSA) proble
     - **Title:** Tower of Hanoi
       - **Details:** Solve the Tower of Hanoi problem, where disks of different sizes are moved between pegs following specific rules.
       
+# DSA Problems for Day 5
+
+**Date:** [03-03-2024]
+
+## Linear Search
+- **Problem 1:**
+  - **Title:** Finding an Element in an Array
+    - **Details:** Implement the linear search algorithm to find a specified element in an array.
+
+- **Problem 2:**
+  - **Title:** Finding the First Occurrence of a Character in a String
+    - **Details:** Utilize linear search to locate the first occurrence of a character in a given string.
+
+## Binary Search
+- **Problem 3:**
+  - **Title:** Searching in a Sorted Array
+    - **Details:** Implement the binary search algorithm to efficiently search for an element in a sorted array.
+
+- **Problem 4:**
+  - **Title:** Finding Peak Element in an Array
+    - **Details:** Use binary search to find a peak element in an array, where the element is greater than or equal to its neighbors.
+
+## Bubble Sort
+- **Problem 5:**
+  - **Title:** Sorting an Array
+    - **Details:** Implement the bubble sort algorithm to sort an array in ascending order.
+
+- **Problem 6:**
+  - **Title:** Counting Inversions in an Array
+    - **Details:** Apply bubble sort to count the number of inversions in an array.
+
+## Selection Sort
+- **Problem 7:**
+  - **Title:** Sorting an Array
+    - **Details:** Implement the selection sort algorithm to sort an array in ascending order.
+
+- **Problem 8:**
+  - **Title:** Finding Kth Smallest Element in an Array
+    - **Details:** Utilize selection sort to find the kth smallest element in an array.
+
