@@ -158,8 +158,6 @@ This README documents a log of daily Data Structures and Algorithms (DSA) proble
     - **Title:** Tower of Hanoi
       - **Details:** Solve the Tower of Hanoi problem, where disks of different sizes are moved between pegs following specific rules.
       
-# DSA Problems for Day 5
-
 **Date:** [03-03-2024]
 
 ## Linear Search
