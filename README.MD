@@ -196,3 +196,45 @@ This README documents a log of daily Data Structures and Algorithms (DSA) proble
   - **Title:** Finding Kth Smallest Element in an Array
     - **Details:** Utilize selection sort to find the kth smallest element in an array.
 
+**Date:** [03-03-2024]
+
+
+- **Problem 1:**
+  - **Title:** Reverse a String
+    - **Details:** Implemented a function to reverse a string in-place, enhancing my understanding of string manipulation.
+
+- **Problem 2:**
+  - **Title:** Anagram Detection
+    - **Details:** Developed a function to determine if two strings are anagrams of each other, honing my pattern recognition skills.
+
+- **Problem 3:**
+  - **Title:** Palindrome Detection
+    - **Details:** Wrote a function to check if a string is a palindrome, reinforcing my knowledge of string manipulation and comparison.
+
+- **Problem 4:**
+  - **Title:** String Compression
+    - **Details:** Implemented a method to perform basic string compression using the counts of repeated characters, enhancing my problem-solving abilities.
+
+- **Problem 5:**
+  - **Title:** Longest Substring Without Repeating Characters
+    - **Details:** Solved the challenge of finding the length of the longest substring without repeating characters, improving my efficiency in handling string data.
+
+- **Problem 6:**
+  - **Title:** Valid Parentheses
+    - **Details:** Developed an algorithm to determine if a string containing parentheses is valid, strengthening my understanding of stack-based operations.
+
+- **Problem 7:**
+  - **Title:** String to Integer (atoi)
+    - **Details:** Implemented the atoi function to convert a string to an integer, refining my ability to handle string conversions.
+
+- **Problem 8:**
+  - **Title:** Implement strStr()
+    - **Details:** Mastered the implementation of strStr() function to find substrings within strings, improving my string search capabilities.
+
+- **Problem 9:**
+  - **Title:** Count and Say
+    - **Details:** Explored the count-and-say sequence and generated terms based on the given integer, enhancing my understanding of sequence generation algorithms.
+
+- **Problem 10:**
+  - **Title:** Group Anagrams
+    - **Details:** Developed a function to group anagrams together in an array of strings, sharpening my skills in string manipulation and data grouping.
