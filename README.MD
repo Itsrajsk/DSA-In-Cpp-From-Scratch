@@ -238,3 +238,22 @@ This README documents a log of daily Data Structures and Algorithms (DSA) proble
 - **Problem 10:**
   - **Title:** Group Anagrams
     - **Details:** Developed a function to group anagrams together in an array of strings, sharpening my skills in string manipulation and data grouping.
+
+**Date:** [04-03-2024]
+
+- **Problem 1:**
+  - **Title:** Two Sum
+    - **Details:** Explored the Two Sum problem, where the task is to find two numbers in an array that add up to a specific target sum.
+
+- **Problem 2:**
+  - **Title:** Count Subarrays with Xor as K
+    - **Details:** Delved into the problem of counting the number of subarrays with a given XOR value K.
+
+- **Problem 3:**
+  - **Title:** Largest Subarray with Zero Sum
+    - **Details:** Explored techniques to find the largest subarray with a sum of zero.
+
+- **Problem 4:**
+  - **Title:** Longest Consecutive Sequence
+    - **Details:** Solved the challenge of finding the longest consecutive sequence in an unsorted array.
+
