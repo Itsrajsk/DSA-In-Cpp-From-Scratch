@@ -1,4 +1,4 @@
-// Implement Insertion Sort For Sorting Array In Non Decreasing Order
+// Implement Selection Sort For Sorting Array In Non Decreasing Order
 
 #include <bits/stdc++.h>
 using namespace std;
