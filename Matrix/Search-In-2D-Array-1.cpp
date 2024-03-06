@@ -1,4 +1,4 @@
-// Spiral Matrix Problem
+// Search In 2D Array Level 1 Problem
 
 #include <bits/stdc++.h>
 using namespace std;
