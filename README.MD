@@ -287,3 +287,15 @@ This README documents a log of daily Data Structures and Algorithms (DSA) proble
 
 - **Title:** Rotate 2D Array By 90 Deg
   - **Details:** Implemented an algorithm to rotate a 2D array by 90 degrees, enhancing problem-solving skills.
+
+**Date:** [07-03-2024]
+
+- **Problem 1:**
+
+  - **Title:** Singly Linked List
+    - **Details:** Implemented basic operations for a singly linked list.Explored the fundamental operations of singly linked lists, focusing on insertion and deletion techniques.
+
+- **Problem 2:**
+
+  - **Title:** Doubly Linked List
+    - **Details:** Delved into the implementation of doubly linked list operations, enhancing our understanding of bidirectional traversal and manipulation.
