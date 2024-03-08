@@ -299,3 +299,29 @@ This README documents a log of daily Data Structures and Algorithms (DSA) proble
 
   - **Title:** Doubly Linked List
     - **Details:** Delved into the implementation of doubly linked list operations, enhancing our understanding of bidirectional traversal and manipulation.
+
+**Date:** 08-03-2024
+
+- **Problem 1:**
+
+  - **Title:** Circular-Queue-Using-Array.cpp
+    - **Details:** Implemented a circular queue using an array, mastering the circular movement and operations involved.
+
+- **Problem 2:**
+
+  - **Title:** Doubly-Ended-Queue-Using-Array.cpp
+    - **Details:** Explored the implementation of a doubly-ended queue using an array, understanding bidirectional insertion and deletion techniques.
+
+- **Problem 3:**
+
+  - **Title:** Doubly-Ended-Queue.cpp
+    - **Details:** Learned about the doubly-ended queue data structure and its operations, enhancing understanding of bidirectional queue manipulation.
+
+- **Problem 4:**
+
+  - **Title:** Queue-Implementation.cpp
+    - **Details:** Studied various implementations of queues, understanding their differences and use cases.
+
+- **Problem 5:**
+  - **Title:** Queue-Using-Array.cpp
+    - **Details:** Explored the implementation of a queue using an array, mastering basic queue operations.
