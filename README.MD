@@ -326,7 +326,7 @@ This README documents a log of daily Data Structures and Algorithms (DSA) proble
   - **Title:** Queue-Using-Array.cpp
     - **Details:** Explored the implementation of a queue using an array, mastering basic queue operations.
 
-**Date:** 10-03-2024
+**Date:** 09-03-2024
 
 - **Problem 1:**
 
@@ -351,3 +351,29 @@ This README documents a log of daily Data Structures and Algorithms (DSA) proble
 - **Problem 5:**
   - **Title:** Insert Element At Bottom Of Stack
     - **Details:** Implemented a function to insert an element at the bottom of a stack, mastering stack manipulation for insertion operations.
+
+**Date:** 10-03-2024
+
+- **Problem 1:**
+
+  - **Title:** Queue Reversal
+    - **Details:** Explored techniques to reverse the elements of a queue, understanding the logic behind queue reversal algorithms.
+
+- **Problem 2:**
+
+  - **Title:** Find Negative Integer In Every Window Of Size K
+    - **Details:** Delved into the problem of finding negative integers in every window of a given size K in an array, mastering the efficient traversal and identification of negative integers.
+
+- **Problem 3:**
+
+  - **Title:** Reverse First K Elements of Queue
+    - **Details:** Learned how to reverse the first K elements of a queue, improving skills in queue manipulation and reordering operations.
+
+- **Problem 4:**
+
+  - **Title:** First Non-Repeating Character in Stream
+    - **Details:** Explored algorithms to find the first non-repeating character in a stream of characters, enhancing understanding of stream processing and character frequency tracking.
+
+- **Problem 5:**
+  - **Title:** Circular Tour
+    - **Details:** Tackled the circular tour problem, understanding how to efficiently traverse a circular route to visit all gas stations.
