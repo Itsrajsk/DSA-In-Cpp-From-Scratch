@@ -325,3 +325,29 @@ This README documents a log of daily Data Structures and Algorithms (DSA) proble
 - **Problem 5:**
   - **Title:** Queue-Using-Array.cpp
     - **Details:** Explored the implementation of a queue using an array, mastering basic queue operations.
+
+**Date:** 10-03-2024
+
+- **Problem 1:**
+
+  - **Title:** Two Stack Problem
+    - **Details:** Explored the problem of implementing two stacks using a single array, mastering the manipulation of elements in both stacks.
+
+- **Problem 2:**
+
+  - **Title:** Reverse String Using Stack
+    - **Details:** Implemented a function to reverse a string using a stack data structure, understanding the principles of stack-based reversal algorithms.
+
+- **Problem 3:**
+
+  - **Title:** Delete Middle Element
+    - **Details:** Solved the challenge of deleting the middle element of a stack, mastering stack manipulation techniques.
+
+- **Problem 4:**
+
+  - **Title:** Valid Parenthesis
+    - **Details:** Explored the problem of validating parenthesis expressions using a stack, understanding stack-based parsing algorithms.
+
+- **Problem 5:**
+  - **Title:** Insert Element At Bottom Of Stack
+    - **Details:** Implemented a function to insert an element at the bottom of a stack, mastering stack manipulation for insertion operations.
