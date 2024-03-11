@@ -377,3 +377,24 @@ This README documents a log of daily Data Structures and Algorithms (DSA) proble
 - **Problem 5:**
   - **Title:** Circular Tour
     - **Details:** Tackled the circular tour problem, understanding how to efficiently traverse a circular route to visit all gas stations.
+
+**Date:** 11-03-2024
+
+- **Problem 1:**
+
+  - **Title:** Reverse Stack Using Recursion
+    - **Details:** Explored the application of recursion to reverse the elements in a stack, unlocking the beauty of recursive algorithms.
+
+- **Problem 2:**
+
+  - **Title:** Sort Stack
+    - **Details:** Mastered the technique of sorting a stack using additional stacks, enhancing skills in stack manipulation and sorting.
+
+- **Problem 3:**
+
+  - **Title:** Redundant Brackets
+    - **Details:** Investigated the identification of redundant brackets in mathematical expressions, refining parsing and validation algorithms.
+
+- **Problem 4:**
+  - **Title:** Min Cost To Make Valid String
+    - **Details:** Tackled the challenge of determining the minimum cost to make a string valid, employing dynamic programming for optimal solutions.
