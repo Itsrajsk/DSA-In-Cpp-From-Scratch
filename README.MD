@@ -398,3 +398,19 @@ This README documents a log of daily Data Structures and Algorithms (DSA) proble
 - **Problem 4:**
   - **Title:** Min Cost To Make Valid String
     - **Details:** Tackled the challenge of determining the minimum cost to make a string valid, employing dynamic programming for optimal solutions.
+
+
+**Date:** 13-03-2024
+
+- **Problem 1:**
+  - **Title:** Binary Tree Operations - Insertion Deletion And Searching
+    - **Details:** Explored the basic operations of binary trees including insertion, deletion, and searching, enhancing understanding of tree data structures.
+
+- **Problem 2:**
+  - **Title:** No Of Leaf Nodes In Binary Tree
+    - **Details:** Counted the number of leaf nodes in a binary tree, mastering recursive traversal techniques and understanding leaf node concepts.
+
+- **Problem 3:**
+  - **Title:** Binary Search Tree - Insertion Deletion And Searching, Min Max Value
+    - **Details:** Implemented operations on binary search trees (BST) such as insertion, deletion, searching, and finding minimum and maximum values, solidifying knowledge of BST properties and operations.
+
