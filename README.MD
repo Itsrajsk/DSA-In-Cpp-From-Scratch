@@ -399,14 +399,15 @@ This README documents a log of daily Data Structures and Algorithms (DSA) proble
   - **Title:** Min Cost To Make Valid String
     - **Details:** Tackled the challenge of determining the minimum cost to make a string valid, employing dynamic programming for optimal solutions.
 
-
-**Date:** 13-03-2024
+**Date:** 12-03-2024
 
 - **Problem 1:**
+
   - **Title:** Binary Tree Operations - Insertion Deletion And Searching
     - **Details:** Explored the basic operations of binary trees including insertion, deletion, and searching, enhancing understanding of tree data structures.
 
 - **Problem 2:**
+
   - **Title:** No Of Leaf Nodes In Binary Tree
     - **Details:** Counted the number of leaf nodes in a binary tree, mastering recursive traversal techniques and understanding leaf node concepts.
 
@@ -414,3 +415,18 @@ This README documents a log of daily Data Structures and Algorithms (DSA) proble
   - **Title:** Binary Search Tree - Insertion Deletion And Searching, Min Max Value
     - **Details:** Implemented operations on binary search trees (BST) such as insertion, deletion, searching, and finding minimum and maximum values, solidifying knowledge of BST properties and operations.
 
+**Date:** 13-03-2024
+
+- **Problem 1:**
+
+  - **Title:** Graph Implementation Using Adjacency List
+    - **Details:** Explored the implementation of a graph using an adjacency list, mastering the representation of graph data structures and understanding adjacency lists' efficiency for certain operations.
+
+- **Problem 2:**
+
+  - **Title:** BFS in Graph
+    - **Details:** Delved into breadth-first search (BFS) traversal in a graph, mastering the exploration of graph structures level by level and understanding BFS's role in graph algorithms.
+
+- **Problem 3:**
+  - **Title:** DFS in Graph
+    - **Details:** Explored depth-first search (DFS) traversal in a graph, mastering the exploration of graph structures by diving as deep as possible and understanding DFS's applications in graph algorithms.
