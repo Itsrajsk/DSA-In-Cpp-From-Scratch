@@ -5,7 +5,8 @@
 #include <list>
 
 using namespace std;
-template <typename T> class graph
+template <typename T>
+class graph
 {
 public:
     unordered_map<T, list<T>> adj;
