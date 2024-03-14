@@ -430,3 +430,29 @@ This README documents a log of daily Data Structures and Algorithms (DSA) proble
 - **Problem 3:**
   - **Title:** DFS in Graph
     - **Details:** Explored depth-first search (DFS) traversal in a graph, mastering the exploration of graph structures by diving as deep as possible and understanding DFS's applications in graph algorithms.
+
+**Date: 14-03-2024**
+
+- **Problem 1:**
+
+  - **Title:** Heap Implementation (Insertion Deletion)
+    - **Details:** Explored the implementation of a heap data structure, mastering the insertion and deletion operations. Understanding the heap structure is crucial for efficient priority queue implementations.
+
+- **Problem 2:**
+
+  - **Title:** Heap Sort
+    - **Details:** Delved into the heap sort algorithm, a powerful sorting technique based on the heap data structure. Learning heap sort enhances our understanding of sorting algorithms and their applications.
+
+- **Problem 3:**
+
+  - **Title:** Heapify Algorithm
+    - **Details:** Studied the heapify algorithm, which ensures that a binary tree satisfies the heap property. Mastering heapify is essential for maintaining the heap structure during insertions and deletions.
+
+- **Problem 4:**
+
+  - **Title:** Max Heap
+    - **Details:** Explored the concept of a max heap, where every parent node is greater than or equal to its children. Understanding max heaps is fundamental for various applications such as priority queues and heap sort.
+
+- **Problem 5:**
+  - **Title:** Min Heap
+    - **Details:** Explored the concept of a min heap, where every parent node is less than or equal to its children. Understanding min heaps provides insights into solving problems requiring the smallest element to be extracted efficiently.
