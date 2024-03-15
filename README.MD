@@ -456,3 +456,30 @@ This README documents a log of daily Data Structures and Algorithms (DSA) proble
 - **Problem 5:**
   - **Title:** Min Heap
     - **Details:** Explored the concept of a min heap, where every parent node is less than or equal to its children. Understanding min heaps provides insights into solving problems requiring the smallest element to be extracted efficiently.
+
+**Date: 15-03-2024**
+
+## Problem 1
+### Title: AVL Tree Implementation
+#### Details:
+Implemented an AVL tree data structure, mastering self-balancing binary search trees.
+
+## Problem 2
+### Title: Kth Smallest Number
+#### Details:
+Solved the problem of finding the kth smallest number in an array or a binary search tree, enhancing skills in tree traversal and searching.
+
+## Problem 3
+### Title: is Binary Tree Heap
+#### Details:
+Explored techniques to determine whether a binary tree is a heap or not, understanding heap properties and traversal algorithms.
+
+## Problem 4
+### Title: Merge 2 Binary Max Heap
+#### Details:
+Implemented the merging of two binary max heaps, mastering heap operations and manipulation.
+
+## Problem 5
+### Title: Min Cost Of Ropes
+#### Details:
+Tackled the problem of finding the minimum cost of connecting ropes, employing efficient data structures and algorithms.
