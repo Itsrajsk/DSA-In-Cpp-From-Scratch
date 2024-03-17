@@ -460,26 +460,75 @@ This README documents a log of daily Data Structures and Algorithms (DSA) proble
 **Date: 15-03-2024**
 
 ## Problem 1
+
 ### Title: AVL Tree Implementation
+
 #### Details:
+
 Implemented an AVL tree data structure, mastering self-balancing binary search trees.
 
 ## Problem 2
+
 ### Title: Kth Smallest Number
+
 #### Details:
+
 Solved the problem of finding the kth smallest number in an array or a binary search tree, enhancing skills in tree traversal and searching.
 
 ## Problem 3
+
 ### Title: is Binary Tree Heap
+
 #### Details:
+
 Explored techniques to determine whether a binary tree is a heap or not, understanding heap properties and traversal algorithms.
 
 ## Problem 4
+
 ### Title: Merge 2 Binary Max Heap
+
 #### Details:
+
 Implemented the merging of two binary max heaps, mastering heap operations and manipulation.
 
 ## Problem 5
+
 ### Title: Min Cost Of Ropes
+
 #### Details:
+
 Tackled the problem of finding the minimum cost of connecting ropes, employing efficient data structures and algorithms.
+
+**Date: 16-03-2024**
+
+## Problem 1
+
+### Title: Dijkstra's Algorithm
+
+#### Details:
+
+Implemented Dijkstra's Algorithm to find the shortest path between nodes in a graph with non-negative edge weights.
+
+## Problem 2
+
+### Title: Bellman-Ford Algorithm
+
+#### Details:
+
+Explored the Bellman-Ford Algorithm, capable of finding the shortest path from a single source vertex to all other vertices, even with negative edge weights.
+
+## Problem 3
+
+### Title: Prim's Algorithm
+
+#### Details:
+
+Mastered Prim's Algorithm for finding the minimum spanning tree (MST) of a weighted undirected graph, efficiently connecting all vertices with minimal total edge weight.
+
+## Problem 4
+
+### Title: Kruskal's Algorithm
+
+#### Details:
+
+Implemented Kruskal's Algorithm to find the minimum spanning tree of a graph, selecting edges with the smallest weight while avoiding cycles.
