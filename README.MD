@@ -532,3 +532,11 @@ Mastered Prim's Algorithm for finding the minimum spanning tree (MST) of a weigh
 #### Details:
 
 Implemented Kruskal's Algorithm to find the minimum spanning tree of a graph, selecting edges with the smallest weight while avoiding cycles.
+
+**Date: 17-03-2024**
+
+**Problem 1:** - **Title:** Kth Largest Sum Subarrays - **Details:** Explored techniques to find the kth largest sum among all subarrays of a given array, enhancing skills in dynamic programming and prefix sums.
+
+**Problem 2:** - **Title:** Merge K Sorted Arrays - **Details:** Implemented a solution to merge K sorted arrays into a single sorted array efficiently, mastering techniques such as heap-based merging.
+
+**Problem 3:** - **Title:** Merge K LinkedList - **Details:** Explored methods to merge K sorted linked lists into a single sorted linked list, sharpening skills in linked list manipulation and merging algorithms.
