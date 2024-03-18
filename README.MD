@@ -540,3 +540,29 @@ Implemented Kruskal's Algorithm to find the minimum spanning tree of a graph, se
 **Problem 2:** - **Title:** Merge K Sorted Arrays - **Details:** Implemented a solution to merge K sorted arrays into a single sorted array efficiently, mastering techniques such as heap-based merging.
 
 **Problem 3:** - **Title:** Merge K LinkedList - **Details:** Explored methods to merge K sorted linked lists into a single sorted linked list, sharpening skills in linked list manipulation and merging algorithms.
+
+**Date: 18-03-2024**
+
+## Problem 1
+
+### Title: Trie Insertion
+
+#### Details:
+
+Implemented the insertion operation in a Trie data structure, mastering the technique to efficiently insert a key into the Trie.
+
+## Problem 2
+
+### Title: Trie Searching
+
+#### Details:
+
+Explored the searching operation in a Trie, understanding how to efficiently search for a key in the Trie data structure.
+
+## Problem 3
+
+### Title: Trie Deletion
+
+#### Details:
+
+Learned the deletion operation in a Trie, mastering the process to remove a key from the Trie while maintaining its structure.
