@@ -566,3 +566,29 @@ Explored the searching operation in a Trie, understanding how to efficiently sea
 #### Details:
 
 Learned the deletion operation in a Trie, mastering the process to remove a key from the Trie while maintaining its structure.
+
+**Date: 29-03-2024**
+
+## Problem 1
+
+### Title: Segment Tree Implementation
+
+#### Description:
+
+Implemented the creation of segment trees, which are essential data structures for handling data in ranges.
+
+## Problem 2
+
+### Title: Querying with Segments
+
+#### Description:
+
+Learned how to ask specific questions about data ranges using segment trees, enhancing problem-solving skills.
+
+## Problem 3
+
+### Title: Min-Max Queries and Updates
+
+#### Description:
+
+Explored techniques to find both the minimum and maximum values in a range of data, along with updating these values efficiently.
