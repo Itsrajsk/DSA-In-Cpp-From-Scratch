@@ -592,3 +592,26 @@ Learned how to ask specific questions about data ranges using segment trees, enh
 #### Description:
 
 Explored techniques to find both the minimum and maximum values in a range of data, along with updating these values efficiently.
+
+**Date: 30-03-2024**
+
+## Problem 1
+### Title: DP Top Down Approach
+#### Description:
+Implemented dynamic programming solutions using the top-down approach, optimizing recursive solutions by memoizing subproblems.
+
+## Problem 2
+### Title: DP Bottom Up Approach
+#### Description:
+Explored dynamic programming solutions using the bottom-up approach, iteratively solving subproblems and building solutions from the ground up.
+
+## Problem 3
+### Title: DP Space Optimisation Approach
+#### Description:
+Learned about space optimization techniques in dynamic programming, reducing memory usage while maintaining optimal time complexity.
+
+## Problem 4
+### Title: Minimum Cost Climbing Stairs
+#### Description:
+Tackled the challenge of finding the minimum cost to climb a staircase, applying dynamic programming principles to optimize the solution.
+
