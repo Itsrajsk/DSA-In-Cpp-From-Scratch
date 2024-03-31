@@ -596,22 +596,115 @@ Explored techniques to find both the minimum and maximum values in a range of da
 **Date: 30-03-2024**
 
 ## Problem 1
+
 ### Title: DP Top Down Approach
+
 #### Description:
+
 Implemented dynamic programming solutions using the top-down approach, optimizing recursive solutions by memoizing subproblems.
 
 ## Problem 2
+
 ### Title: DP Bottom Up Approach
+
 #### Description:
+
 Explored dynamic programming solutions using the bottom-up approach, iteratively solving subproblems and building solutions from the ground up.
 
 ## Problem 3
+
 ### Title: DP Space Optimisation Approach
+
 #### Description:
+
 Learned about space optimization techniques in dynamic programming, reducing memory usage while maintaining optimal time complexity.
 
 ## Problem 4
+
 ### Title: Minimum Cost Climbing Stairs
+
 #### Description:
+
 Tackled the challenge of finding the minimum cost to climb a staircase, applying dynamic programming principles to optimize the solution.
 
+**Date: 31-03-2024**
+
+## Problem 1
+
+### Title: Binary-To-Decimal
+
+#### Description:
+
+Implemented a program to convert a binary number to its decimal equivalent.
+
+## Problem 2
+
+### Title: Check-If-ith-Bit-Is-Set
+
+#### Description:
+
+Developed a program to check if the ith bit of a number is set (1) or not (0).
+
+## Problem 3
+
+### Title: Check-Number-Is-Power-Of-Two
+
+#### Description:
+
+Implemented a program to check if a given number is a power of two or not.
+
+## Problem 4
+
+### Title: Clear-ith-Bit
+
+#### Description:
+
+Developed a program to clear (set to 0) the ith bit of a number.
+
+## Problem 5
+
+### Title: Count-Set-Of-Bits
+
+#### Description:
+
+Implemented a program to count the number of set bits (1s) in a binary representation of a number.
+
+## Problem 6
+
+### Title: Decimal-To-Binary
+
+#### Description:
+
+Developed a program to convert a decimal number to its binary equivalent.
+
+## Problem 7
+
+### Title: Remove-Last-Set-Bit
+
+#### Description:
+
+Implemented a program to remove the last set bit (1) from a number.
+
+## Problem 8
+
+### Title: Set-ith-Bit
+
+#### Description:
+
+Developed a program to set the ith bit of a number to 1.
+
+## Problem 9
+
+### Title: Swap-Two-Numbers
+
+#### Description:
+
+Implemented a program to swap two numbers without using a temporary variable.
+
+## Problem 10
+
+### Title: Toggle-ith-Bit
+
+#### Description:
+
+Developed a program to toggle (invert) the ith bit of a number.
